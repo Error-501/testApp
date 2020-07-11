@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">testApp</string>
+    <string name="ran">#ran</string>
+    <string name="start">start</string>
+    <string name="end">end</string>
+</resources>
